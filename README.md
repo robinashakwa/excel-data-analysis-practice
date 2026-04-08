@@ -1,6 +1,6 @@
 # 📊 Excel Functions Practice Portfolio
 
-ONGING
+ONGOING
 
 ## 📌 Overview
 
