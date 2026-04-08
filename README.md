@@ -1,5 +1,7 @@
 # 📊 Excel Functions Practice Portfolio
 
+#Ongoing
+
 ## 📌 Overview
 
 This project demonstrates the use of **commonly used Excel functions** through practical examples.
